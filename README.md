@@ -1,1 +1,1 @@
-my first readme
+covid is a hoax
